@@ -34,3 +34,7 @@ This educational simulator introduces key ideas related to:
 While not a full AI system, it lays the groundwork for developing an AI agent that could reason, plan, or learn from actions in a defined environment.
 
 ---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
